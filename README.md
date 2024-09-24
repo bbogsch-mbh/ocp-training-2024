@@ -6,7 +6,7 @@ To run the word-picker API:
 ```
 cd word-picker
 export FLASK_APP=word_picker.py
-/Users/bbogsch-mbh/Library/Python/3.11/bin/flask run
+flask run
 ```
 
 To build the Docker image:
